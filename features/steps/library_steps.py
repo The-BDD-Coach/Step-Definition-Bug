@@ -1,3 +1,5 @@
+# Copyright 2014 by Leslie Brooks; all rights reserved
+
 from behave import given, when, then, use_step_matcher
 
 use_step_matcher("re")
